@@ -1,0 +1,15 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "A responsive student management interface with dashboard, student list, and add student functionality",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve ."
+  },
+  "keywords": ["student", "management", "dashboard", "responsive", "bootstrap"],
+  "author": "Student Management System",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
